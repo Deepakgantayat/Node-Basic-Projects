@@ -1,0 +1,4 @@
+use npm init//npm init -y to install package.json
+then npm install --save express
+do a extension of json view
+do npm install -g nodemon
